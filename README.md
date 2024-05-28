@@ -30,10 +30,6 @@ As the first project at Ecole 42, Libft is an essential step in the curriculum b
 - **Practice modular programming**: By creating a reusable library, students learn to organize their code in a modular and maintainable way.
 - **Improve debugging and testing skills**: Working on basic functions and testing them rigorously helps develop strong debugging and code validation skills.
 
-## My Grade
-
-I am proud to announce that I received a grade of 125/100 for this project. This score reflects not only the quality of my work but also my commitment to going beyond the basic requirements of the project by adding functionalities and optimizing the performance of my library.
-
 ---
 
 Thank you for taking the time to check out this project! I hope it will be useful in your own C projects.
